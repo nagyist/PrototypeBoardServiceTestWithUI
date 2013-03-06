@@ -1,0 +1,23 @@
+﻿<ResourceDictionary
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<Style x:Key="LedListBoxItemStyle" TargetType="{x:Type ListBoxItem}">
+        <Style.Resources>
+            <SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="Transparent"/>
+            <SolidColorBrush x:Key="{x:Static SystemColors.ControlBrushKey}" Color="Transparent"/>
+        </Style.Resources>
+    </Style>
+	<DataTemplate x:Key="LedDataTemplate1">
+		<Grid>
+			<Ellipse Stroke="#FFE5E5E5" Width="20" Height="20">
+				<Ellipse.Fill>
+					<RadialGradientBrush>
+						<GradientStop Color="#FF979797" Offset="0"/>
+						<GradientStop Color="#FFEFEDED" Offset="1"/>
+					</RadialGradientBrush>
+				</Ellipse.Fill>
+			</Ellipse>
+		</Grid>
+	</DataTemplate>
+	<!-- Resource dictionary entries should be defined here. -->
+</ResourceDictionary>

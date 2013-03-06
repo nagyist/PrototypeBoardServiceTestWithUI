@@ -1,0 +1,10 @@
+C:\Users\kenn\Microsoft Robotics Dev Studio 4\bin\prototypeBoardConnectionTest.Y2012.M10.dll
+C:\Users\kenn\Microsoft Robotics Dev Studio 4\bin\prototypeBoardConnectionTest.Y2012.M10.pdb
+C:\Users\kenn\Microsoft Robotics Dev Studio 4\samples\prototypeBoardConnectionTest\obj\Debug\prototypeBoardConnectionTest.Y2012.M10.dll
+C:\Users\kenn\Microsoft Robotics Dev Studio 4\samples\prototypeBoardConnectionTest\obj\Debug\prototypeBoardConnectionTest.Y2012.M10.pdb
+C:\Users\kenn\Microsoft Robotics Dev Studio 4\samples\prototypeBoardConnectionTest\obj\Debug\prototypeBoardConnectionTest.csprojResolveAssemblyReference.cache
+C:\Users\kenn\Microsoft Robotics Dev Studio 4\samples\prototypeBoardConnectionTest\obj\Debug\ControlWindow.baml
+C:\Users\kenn\Microsoft Robotics Dev Studio 4\samples\prototypeBoardConnectionTest\obj\Debug\ControlWindow.g.cs
+C:\Users\kenn\Microsoft Robotics Dev Studio 4\samples\prototypeBoardConnectionTest\obj\Debug\prototypeBoardConnectionTest.Y2012.M10_MarkupCompile.cache
+C:\Users\kenn\Microsoft Robotics Dev Studio 4\samples\prototypeBoardConnectionTest\obj\Debug\prototypeBoardConnectionTest.Y2012.M10.g.resources
+C:\Users\kenn\Microsoft Robotics Dev Studio 4\samples\prototypeBoardConnectionTest\obj\Debug\Style.baml
